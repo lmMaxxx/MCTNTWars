@@ -1,0 +1,5 @@
+name: MCTNTWars
+version: '${project.version}'
+main: eu.mindcreation.mctntwars.MCTNTWars
+api-version: 1.18
+authors: [ MindCreation ]
